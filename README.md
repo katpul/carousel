@@ -1,4 +1,4 @@
-# task
+# Carousel
 
 ## Project setup
 ```
